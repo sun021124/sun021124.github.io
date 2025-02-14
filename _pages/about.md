@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Sun Liying，a postgraduate student from the Education Technology, [East China Normal University](https://www.ecnu.edu.cn/). My research interests include generative artificial intelligence, AI literacy, prompt literacy, and big concepts.
+I am Sun Liying，a postgraduate student from the Education Technology, [East China Normal University](https://www.ecnu.edu.cn/). My research interests include generative artificial intelligence, AI literacy, prompt literacy, and big ideas.
 
 I am fortunate to be supervised by Professor Gu Xiaoqing from East China Normal University.
 
