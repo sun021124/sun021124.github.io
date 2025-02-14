@@ -59,6 +59,8 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
+
+
 $right-sidebar-width-narrow : 20px !default;
 $right-sidebar-width        : 30px !default;
 $right-sidebar-width-wide   : 40px !default;
@@ -102,4 +104,10 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-   
+
+.author__name {
+    font - size: $type - size - 6; // 调整字号
+    display: block; // 确保以块级元素显示，利于布局
+    clear: both; // 清除可能的浮动影响
+    margin - top: 5px; // 根据需要调整与头像的垂直间距
+}
