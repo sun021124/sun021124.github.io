@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "孙丽颖 / Introduction"
+title                    : "Liying Sun / Introduction"
 title_separator          : "-"
-name                     : &name "孙丽颖"
+name                     : &name "Liying Sun"
 description              : &description "personal description"
 url                      : https://sun021124.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "sun021124/sun021124.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "孙丽颖"
+  name             : "Liying Sun"
   pronouns         : # example: "she/her"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "China Shanghai"
